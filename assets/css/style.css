@@ -135,7 +135,7 @@ body {
   align-items: center;
   margin: 10px;
   cursor: pointer;
-  box-shadow: 3px 3px 0px #555;
+  /* box-shadow: 3px 3px 0px #555; */
 }
 
 .btn-branco {
