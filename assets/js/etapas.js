@@ -4,16 +4,16 @@ const etapas = [
     numeros: 5,
     candidatos: [
       {
-        numero: 38111,
+        numero: "38111",
         nome: "Fulano de Tal",
         partido: "ABC",
-        fotos: [{ url: "38111.jpg", legenda: "Vereador" }],
+        fotos: [{ url: "cv1.jpg", legenda: "Vereador" }],
       },
       {
-        numero: 77222,
+        numero: "77222",
         nome: "Beltrano da Silva",
         partido: "DEFG",
-        fotos: [{ url: "77222.jpg", legenda: "Vereador" }],
+        fotos: [{ url: "cp1.jpg", legenda: "Vereador" }],
       },
     ],
   },
@@ -22,23 +22,23 @@ const etapas = [
     numeros: 2,
     candidatos: [
       {
-        numero: 99,
+        numero: "99",
         nome: "Ciclano de Algo",
         partido: "XYZ",
         vice: "Cic",
         fotos: [
-          { url: "99.jpg", legenda: "Prefeito" },
-          { url: "99_2.jpg", legenda: "Vice-Prfeito", small: true },
+          { url: "cp1.jpg", legenda: "Prefeito" },
+          { url: "cv1.jpg", legenda: "Vice-Prfeito", small: true },
         ],
       },
       {
-        numero: 84,
+        numero: "84",
         nome: "Bunda Mole",
         partido: "SDFGH",
         vice: "Bundas",
         fotos: [
-          { url: "84.jpg", legenda: "Prefeito" },
-          { url: "84_2.jpg", legenda: "Vice-Prefeito", small: true },
+          { url: "cv1.jpg", legenda: "Prefeito" },
+          { url: "cp1.jpg", legenda: "Vice-Prefeito", small: true },
         ],
       },
     ],
